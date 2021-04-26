@@ -1,0 +1,13 @@
+body {
+  background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+}
+
+.title {
+  text-align: center;
+}
+.intro {
+  text-align: center;
+}
+img {
+  border-radius: 50%;
+}
